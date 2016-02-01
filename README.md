@@ -1,2 +1,3 @@
 # hello-world
-Terain repo
+============================
+Testowe repozytorium do zabawy z gitem.
